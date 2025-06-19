@@ -8,15 +8,17 @@
 
 ### 👨‍💻 About Me
 
+<p align="center">
 I'm a passionate fullstack developer and advanced computer science student.  
 I enjoy solving real-world problems, crafting clean and intuitive user interfaces, and learning new technologies.  
 My goal is to build meaningful, accessible software — and have fun doing it 😊
+</p>
 
 ---
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
