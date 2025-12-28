@@ -54,21 +54,27 @@
 🚀 Fullstack developer and advanced computer science student.<br/>
 I enjoy building scalable backends, clean frontends and learning new technologies every day.
 </p>
+<p align="center">👨‍💻 All of my projects are available in my <a href="https://juanpeyrot-portfolio.vercel.app/">portfolio</a>.</p>
+
+###
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanpeyrot&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=juanpeyrot&theme=dracula" height="150" />
+  <a href="https://www.linkedin.com/in/juan-peyrot-3004b223b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://dev.to/juanpeyrot" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="devto logo" />
+  </a>
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/juanpeyrot/juanpeyrot/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/juanpeyrot/juanpeyrot/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/juanpeyrot/juanpeyrot/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juanpeyrot&show_icons=true&theme=dracula" height="150" />
+
+<img src="https://streak-stats.demolab.com?user=juanpeyrot&theme=dracula" height="150" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=juanpeyrot&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400" height="150" />
+</div>
