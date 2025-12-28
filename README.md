@@ -76,5 +76,19 @@ I enjoy building scalable backends, clean frontends and learning new technologie
 
 <img src="https://streak-stats.demolab.com?user=juanpeyrot&theme=dracula" height="150" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=juanpeyrot&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400" height="150" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/juanpeyrot/juanpeyrot/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/juanpeyrot/juanpeyrot/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/juanpeyrot/juanpeyrot/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
 </div>
