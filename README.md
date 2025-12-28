@@ -54,7 +54,7 @@
 🚀 Fullstack developer and advanced computer science student.<br/>
 I enjoy building scalable backends, clean frontends and learning new technologies every day.
 </p>
-<p align="center">👨‍💻 All of my projects are available in my <a href="https://juanpeyrot-portfolio.vercel.app/">portfolio</a>.</p>
+<p align="center">👨‍💻 All of my projects are available in my <a href="https://juanpeyrot-portfolio.vercel.app/" target="_blank">portfolio</a>.</p>
 
 ###
 
