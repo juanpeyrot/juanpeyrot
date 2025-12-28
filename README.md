@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="images/nestjs.svg" height="60" alt="nestjs logo" />
   <img width="12" />
-  <img src="images/expressjs.svg" height="60" alt="express logo" />
+  <img src="images/expressjs.svg" height="60" alt="expressjs logo" />
 </div>
 
 ###
